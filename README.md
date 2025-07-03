@@ -1,11 +1,12 @@
 <h1 style="color:#FF8C00;">Hi 👋, I'm Santiago Castrillon</h1>
 <h2 style="color:#FF8C00;">A passionate tech apprentice focused on Cyber Security & Development from Brazil</h2>
-<br>
-- 🔭 I’m currently working on **cyber security**
 
-- 🌱 I’m currently learning **OSINT and Threat Intel**
 
-- 📫 How to reach me **santiagocastrillonprof@gmail.com**
+-  🔭 I’m currently working on **cyber security**
+
+-  🌱 I’m currently learning **OSINT and Threat Intel**
+
+-  📫 How to reach me **santiagocastrillonprof@gmail.com**
   
 <h3 align="left" style="color:#FF8C00;">Connect with me:</h3>
 <p align="left">
