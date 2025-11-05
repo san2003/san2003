@@ -4,7 +4,7 @@
 
 -  🔭 I’m currently working on **cyber security**
 
--  🌱 I’m currently learning **OSINT and Threat Intel**
+-  🌱 I’m currently learning **SOC, Threat Intel and Hardware Pentest**
 
 -  📫 How to reach me **santiagocastrillonprof@gmail.com**
 
